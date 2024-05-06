@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "rust-analyzer.check.allTargets": false,
+        "rust-analyzer.check.extraArgs": [
+            "--target",
+            "thumbv7em-none-eabihf"
+        ],
+    }
+}
